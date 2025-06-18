@@ -1,5 +1,8 @@
 # Bootstrap Generator Password Form
 
+## Preview
+![preview](https://github.com/mihaiapostol14/Bootstrap-Generator-Password-Form/blob/da5d91ba8f5c537bcd8e722373e46316234b8c39/assets/preview.png)
+
 ## Overview
 The `Bootstrap Generator Password Form` repository is a project focused on creating a password generator form using Bootstrap. The repository primarily consists of HTML and CSS, indicating a focus on web development.
 
